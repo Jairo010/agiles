@@ -72,7 +72,7 @@ if (!empty($_POST)) {
           </div>
           <div class="card-body p-4 p-sm-5">
             <h5 class="card-title text-center mb-5 fw-light fs-5">Registrarse</h5>
-            <form action="../Tienda_online/registro.php" method="post">
+            <form action="../Sistema_imc/registro.php" method="post">
 
               <div class="form-floating mb-3">
                 <input type="text" class="form-control" id="usuario" name="usuario" placeholder="myusername" required>
